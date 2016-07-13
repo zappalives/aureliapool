@@ -1,2 +1,2 @@
 # aureliapool
-NFLPool using Aurelia adn MongoDB
+NFLPool using Aurelia and MongoDB
